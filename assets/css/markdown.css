@@ -278,8 +278,8 @@
 
 #contentBody blockquote {
   padding: 0 1em;
-  color: #6a737d;
-  border-left: 0.25em solid #dfe2e5;
+  color: #98bc99;
+  border-left: 0.25em solid #98bc99;
 }
 
 #contentBody blockquote>:first-child {
@@ -429,14 +429,14 @@
 #contentBody table th,
 #contentBody table td {
   padding: 6px 13px;
-  border: 1px solid #c9c9c9;
-  background-color: #f6f6f6;
+  border: 1px solid #d0d0d0;
+  background-color: #121212;
 }
 
 #contentBody img {
   max-width: 100%;
   box-sizing: content-box;
-  background-color: #f6f6f6;
+  background-color: #121212;
 }
 
 #contentBody img[align=right] {
@@ -451,7 +451,8 @@
   padding: 0.2em 0.4em;
   margin: 0;
   font-size: 85%;
-  background-color: #f6f6f6;
+  background-color: #005f87;
+  color: #d0d0d0;
   border-radius: 3px;
 }
 
@@ -484,7 +485,7 @@
   overflow: auto;
   font-size: 85%;
   line-height: 1.45;
-  background-color: #f6f6f6;
+  background-color: #121212;
 }
 
 #contentBody pre code {
