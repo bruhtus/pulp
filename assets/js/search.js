@@ -129,7 +129,7 @@ const initUI = () => {
   $('#searchBoxInput').trigger('keyup')
 
   // Focus at searchBox
-  $('#searchBoxInput').focus()
+  // $('#searchBoxInput').focus()
 }
 
 /**
